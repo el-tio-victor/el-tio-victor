@@ -6,18 +6,16 @@
     </div>
     Full Stack Developer | Linux Enthusiast | Open Source Lover
 </h3>
-
-<br>
-<br>
-<br>
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 <p align="center" >
   <img src="https://img.shields.io/badge/OS-Debian%2011-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-Zsh-black?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-
+<br>
+<br>
+<br>
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 ### 🚀 Sobre mí
 - 💻 Actualmente trabajando en proyectos de **flutter** y **Desarrollo Web**.
 - 🐧 Usuario apasionado de **Debian 11** (mi entorno principal de desarrollo).
