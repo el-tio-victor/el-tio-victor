@@ -16,6 +16,7 @@
 <br>
 <br>
 **━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
+<br>
 ### 🚀 Sobre mí
 - 💻 Actualmente trabajando en proyectos de **flutter** y **Desarrollo Web**.
 - 🐧 Usuario apasionado de **Debian 11** (mi entorno principal de desarrollo).
