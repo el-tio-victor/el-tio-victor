@@ -50,7 +50,7 @@
 </p>
 
 <br/>
-<table width=100%><tr><td bgcolor="#ccc" style="padding:2px;margin-top:100px"></td></tr></table>
+<hr>
 
 
 <br>
