@@ -12,10 +12,7 @@
   <img src="https://img.shields.io/badge/Shell-Zsh-black?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-<br>
-<br>
-<br>
-<br>
+
 ### 🚀 Sobre mí
 - 💻 Actualmente trabajando en proyectos de **flutter** y **Desarrollo Web**.
 - 🐧 Usuario apasionado de **Debian 11** (mi entorno principal de desarrollo).
