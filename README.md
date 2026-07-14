@@ -7,6 +7,10 @@
     Full Stack Developer | Linux Enthusiast | Open Source Lover
 </h3>
 
+<br>
+<br>
+<br>
+**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 <p align="center" >
   <img src="https://img.shields.io/badge/OS-Debian%2011-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
