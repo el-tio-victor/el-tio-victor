@@ -48,13 +48,11 @@
   <!-- Docker -->
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
-<br/>
 <hr>
 
 
 <br>
-<div style="padding:50px;background-color:#000;">
+<div>
 </div>
 
 ### 🤝 Conectemos
