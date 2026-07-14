@@ -15,7 +15,6 @@
 <br>
 <br>
 <br>
-**━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━**
 <br>
 ### 🚀 Sobre mí
 - 💻 Actualmente trabajando en proyectos de **flutter** y **Desarrollo Web**.
