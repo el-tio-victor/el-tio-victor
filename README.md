@@ -22,7 +22,7 @@
 - [🌐 Visita mi Portafolio](https://gomez-site.mx)
 <br/>
 <br/>
-<table width=100%><tr><td bgcolor="#ccc" style="padding:2px;margin-top:100px"></td></tr></table>
+<hr>
 
 ### 🛠️ Tecnologías y Herramientas
 <p align="left"style="padding-left:30px">
